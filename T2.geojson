@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "T2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SISTEMA": "STE Cablebús", "LINEA": "2", "RUTA": "Constitución de 1917 - Santa Marta" }, "geometry": { "type": "LineString", "coordinates": [ [ -99.062505242538677, 19.344856834885025 ], [ -99.043449257437402, 19.327826964295728 ], [ -99.03082648821551, 19.331787898925281 ], [ -99.019002876530919, 19.336172632819135 ], [ -99.008111678301546, 19.340827679599396 ], [ -98.989548794888904, 19.34352581352654 ], [ -98.993982201317266, 19.35951698289221 ] ] } }
+]
+}
